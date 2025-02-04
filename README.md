@@ -10,4 +10,4 @@ Este repositório contém o código-fonte de um aplicativo em Python que permite
 - **Visualização de Restaurantes**: Consulte a lista de restaurantes cadastrados.
 - **Atualização de Informações**: Edite informações de restaurantes existentes.
 - **Remoção de Restaurantes**: Remova restaurantes do cadastro.
-- **Busca por Restaurantes**: Encontre restaurantes com base em 
+- **Busca por Restaurantes**: Encontre restaurantes com base em seu nome cadastrado.
